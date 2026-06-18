@@ -49,7 +49,7 @@ A tiny ceramic Chip Antenna (M620720) chirps the informatiion through a LoRaWAN 
 ```
 
 **Why this?**  
-Running Wi-Fi or Ethernet to every parking slot at an airport as it is too expensive to trench cables under asphalt. LoRaWAN travels kilometers on tiny battery power, so one gateway on a lamp-post can cover hundreds of bays.
+Running Wi-Fi or Ethernet to every parking slot at an airport is avoided as it is too expensive to trench cables under asphalt. LoRaWAN travels kilometers on tiny battery power, so one gateway on a lamp-post can cover hundreds of bays.
 
 ---
 ### Key Concepts
