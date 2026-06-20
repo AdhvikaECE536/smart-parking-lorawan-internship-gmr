@@ -16,7 +16,6 @@
 - `2. Hardware.md`         – PCB and sensor explanation
 - `3. LoRaWAN.md`          – about wireless protocols
 - `4. ChirpStack.md`       – dashboard and server explanation 
-- `5. Firmware`            – code explanation
 
 ---
 
