@@ -71,4 +71,4 @@ Running Wi-Fi or Ethernet to every parking slot at an airport is avoided as it i
 ---
 
 ### 🙏 Acknowledgments
-Special thanks to GMR Airports Ltd for proving me the environment to learn, explore and grow. 
+Special thanks to GMR Airports Ltd for providing me the environment to learn, explore and grow. 
